@@ -168,6 +168,9 @@ body {
   color: #2196f3;
 }
 /*-------------OURWORK-----------------*/
+.ourwork-btn {
+  background-color: #f5f4fa;
+}
 .ourwork-btn:hover,
 .ourwork-btn:focus {
   background-color: #2196f3;
