@@ -72,6 +72,8 @@ body {
   color: #ffffff;
 }
 .hero-btn {
+  font-family: 'Roboto';
+  font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -151,6 +153,10 @@ body {
   letter-spacing: 0.03em;
   color: #ffffff;
 }
+.footer-address {
+  font-family: 'Roboto';
+  font-style: normal;
+}
 .footer-tel,
 .footer-mail {
   font-size: 14px;
@@ -167,17 +173,25 @@ body {
 .footer-tel:hover {
   color: #2196f3;
 }
-/*-------------OURWORK-----------------*/
-.ourwork-btn {
+
+/*-------------PORTFOLIO-----------------*/
+.portfolio-btn {
   background-color: #f5f4fa;
 }
-.ourwork-btn:hover,
-.ourwork-btn:focus {
+.portfolio-btn:hover,
+.portfolio-btn:focus {
   background-color: #2196f3;
   color: #ffffff;
 }
-
-/*-------------PORTFOLIO-----------------*/
+.portfolio-btn {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
 .portfolio-title {
   font-weight: 700;
   font-size: 18px;
